@@ -1,7 +1,4 @@
---- main.cpp (原始)
-
-
-+++ main.cpp (修改后)
+main.cpp 
 #include <iostream>
 #include <thread>
 #include <string>
