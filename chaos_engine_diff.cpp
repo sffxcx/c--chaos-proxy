@@ -1,7 +1,4 @@
---- chaos_engine.cpp (原始)
-
-
-+++ chaos_engine.cpp (修改后)
+chaos_engine.cpp 
 #include "chaos_engine.h"
 #include <chrono>
 #include <thread>
