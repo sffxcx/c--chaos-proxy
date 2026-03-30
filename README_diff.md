@@ -1,7 +1,7 @@
---- README.md (原始)
+--- README.md
 # 1
 
-+++ README.md (修改后)
++++ README.md
 # Chaos Proxy
 
 HTTP-прокси с эмуляцией сетевых сбоев.
@@ -178,4 +178,4 @@ curl "http://localhost:8080/httpbin.org/html?delay=500&truncate=true"
 
 ## 📄 Лицензия
 
-Используйте freely для своих проектов.
+Использую MIT License.
