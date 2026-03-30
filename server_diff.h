@@ -1,7 +1,4 @@
---- server.h (原始)
-
-
-+++ server.h (修改后)
+server.h 
 #ifndef CHAOS_PROXY_SERVER_H
 #define CHAOS_PROXY_SERVER_H
 
