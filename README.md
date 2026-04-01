@@ -176,3 +176,7 @@ curl "http://localhost:8080/httpbin.org/html?delay=500&truncate=true"
 ## 📄 Лицензия
 
 Использую MIT License.
+
+## 👨‍💻 Автор
+
+Софья Бондарь
