@@ -1,4 +1,3 @@
-server.h 
 #ifndef CHAOS_PROXY_SERVER_H
 #define CHAOS_PROXY_SERVER_H
 
