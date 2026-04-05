@@ -1,4 +1,3 @@
-http_parser.h
 #ifndef CHAOS_PROXY_HTTP_PARSER_H
 #define CHAOS_PROXY_HTTP_PARSER_H
 
